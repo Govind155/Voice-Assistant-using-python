@@ -20,13 +20,13 @@ This is the simple application of the speech recognition module where the text i
 5. datetime
 
 ## Screenshot
-![screenshot01](https://user-images.githubusercontent.com/73738015/103520507-45094700-4e9d-11eb-8c2d-aaaf4329fe9d.JPG)
 
 <p align="center"><b>Play Music</b></p>
-![screenshot01](https://user-images.githubusercontent.com/73738015/103520116-abda3080-4e9c-11eb-86ee-151aed0a69dc.JPG)
+![screenshot01](https://user-images.githubusercontent.com/73738015/103520507-45094700-4e9d-11eb-8c2d-aaaf4329fe9d.JPG)
 
 <p align="center"><b>Open Google</b></p>
-![screenshot02](https://user-images.githubusercontent.com/73738015/103520104-a7157c80-4e9c-11eb-9ebd-d51031d5e923.JPG)
+
+![screenshot02](https://user-images.githubusercontent.com/73738015/103520517-48043780-4e9d-11eb-8ef5-a3ecb58720b2.JPG)
 
 <p align="center"><b>Serach on Wikipedia</b></p>
 ![screenshot03](https://user-images.githubusercontent.com/73738015/103520112-aa106d00-4e9c-11eb-9527-baf1fa0ed6a8.JPG)
