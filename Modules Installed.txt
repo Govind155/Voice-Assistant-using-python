@@ -4,7 +4,7 @@ Modules Installed
 To install this module type the below command in the terminal.
 pip install pyttsx3
 
-2.Wikipedia: As we all know Wikipedia is a great source of knowledge just like GeeksforGeeks we 
+2.Wikipedia: As we all know Wikipedia is a great source of knowledge. We 
 have used Wikipedia module to get information from Wikipedia or to perform Wikipedia search. 
 To install this module type the below command in the terminal.
 pip install wikipedia
